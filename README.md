@@ -27,6 +27,6 @@
   
 ###5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-  Using dplyr pacakage, summarize the average of each measurements by activity and by subject. 
+  Using _dplyr_ pacakage, summarize the average of each measurements by activity and by subject. 
   
-  Use read.write function to save the final dataset into txt file.
+  Use read.write() function to save the final dataset into txt file.
